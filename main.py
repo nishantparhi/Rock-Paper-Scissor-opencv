@@ -3,7 +3,6 @@ import numpy as np
 from gameworkflow import *
 import time
 
-
 top, right, bottom, left = 10, 100, 300, 400
 
 def calibrateWithNewImages():
